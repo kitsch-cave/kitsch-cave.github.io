@@ -1,0 +1,55 @@
+body {
+  background-color: thistle;
+}
+
+h1 {
+    color:green;
+    font-family: serif;
+    background-color: peachpuff;
+    border: 3px tomato;
+    padding:25px;
+  }
+
+  p {
+    color:purple;
+    font-family: monospace;
+  }
+
+  h2 {
+    color:blue;
+    font-family: inherit;
+    background-color: darkseagreen;
+  }
+
+  h3 {
+    color:aqua;
+    font-family: cursive;
+    background-color: sienna;
+  }
+
+  #highlight {
+    color: steelblue;
+    font-family: sans-serif;
+    font-size: 15;
+  }
+
+.head {
+  float: left;
+}
+
+.mid {
+  background-color: linen;
+}
+
+  img {
+    border: 3px solid tomato;
+    width:40%;
+    height:40%;
+    margin-left:200px;
+  }
+
+  h1 {
+    color: darkolivegreen;
+    font-family: fantasy;
+    text-transform: uppercase;
+  }
